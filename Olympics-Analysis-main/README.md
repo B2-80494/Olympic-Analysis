@@ -34,12 +34,3 @@ Now with given data I analyzed the data set for each aforementioned question.Wit
   * In which year India won it's first Gold Medal in Summer Olympics?
   * Which event is most popular in terms on number of players? (Top 5)
   * Which sport has most number of female Gold Medalists? (Top 5)
-# Links
-* Gmail- kartikgparashar786@gmail.com
-* Kaggle       - https://www.kaggle.com/kartikparashar 
-* Linkedin     - www.linkedin.com/in/kartik-parashar-90bb1a1a4
-* This Repo    - https://github.com/kartikparashar786/Olympics-Analysis
-* HackerRank   - https://www.hackerrank.com/Blu_Dragon
-* My other repo- https://github.com/kartikparashar786/Inventory-Management-System
-
-Made by-Kartik Parashar
